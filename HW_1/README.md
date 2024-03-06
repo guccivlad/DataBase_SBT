@@ -17,3 +17,17 @@
    **в)Поиск первых 10ти поездок, совершенных 7/3/2014 и отсортированных по адресу**
     
 ![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/find_3.jpg)
+
+### 2)Update
+  **Обновим первую запись, добавив марку машины**
+  **а)До обновления:**
+![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/before_update.jpg)
+  **б)После обновления:**
+  ![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/after_update.jpg)
+
+### 3)Delete
+  **Удалим все поезки, совершенные позже 12:10**
+  **а)До удаления:**
+![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/before_delete.jpg)
+  **б)После удаления:**
+![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/after_delete.jpg)
