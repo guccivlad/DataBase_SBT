@@ -5,4 +5,4 @@
 ## 3. CRUD запросы
 ### 1)Find
     а) Поиск поездок, которые совершались 8го числа
-    ![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/find_1.jpg)
+![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/find_1.jpg)
