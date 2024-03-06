@@ -4,7 +4,7 @@
 ![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/Import_Data.jpg)
 ## 3. CRUD запросы
 ### 1)Find
-    **а)Поиск поездок, которые совершались 8го числа**
+    __а)Поиск поездок, которые совершались 8го числа__
     
 ![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/find_1.jpg)
 
