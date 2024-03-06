@@ -20,6 +20,7 @@
 
 ### 2)Update
   **Обновим первую запись, добавив марку машины**
+  
   **а)До обновления:**
 ![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/before_update.jpg)
   **б)После обновления:**
@@ -27,6 +28,7 @@
 
 ### 3)Delete
   **Удалим все поезки, совершенные позже 12:10**
+  
   **а)До удаления:**
 ![Image alt](https://github.com/guccivlad/DataBase_SBT/blob/main/HW_1/before_delete.jpg)
   **б)После удаления:**
