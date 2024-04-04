@@ -112,9 +112,10 @@ redis-benchmark -t set,get -d 1000000 -n 1000 -q
 
 ![](get_cluster.jpg)
 
-Провелм Benchmark тест:
+Провели Benchmark тест:
 ```bash
 redis-benchmark -p 7000 -t get,set -q --cluster
 ```
 Получили результат:
+
 ![](benchmark_cluster.jpg)
