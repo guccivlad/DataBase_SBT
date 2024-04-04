@@ -37,4 +37,7 @@ start_time_string = time.time()
 json_list = client.get('string')
 end_time_string = time.time()
 
-print("Time taken: ", end_time_zset - start_time_zset)
+print("Time taken to read hset data: ", end_time_hset - start_time_hset)
+print("Time taken to read zset data: ", end_time_zset - start_time_zset)
+print("Time taken to read list data: ", end_time_list - start_time_list)
+print("Time taken to read string data: ", end_time_string - start_time_string)
