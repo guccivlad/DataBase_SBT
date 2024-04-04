@@ -93,7 +93,7 @@ file.close()
 redis-benchmark -t get,set -q
 ```
 Замерили количество запросов в секунду для комманд SET и GET.
-Получили след. рещультаты:
+Получили след. результаты:
 
 ![](benchmark_test_for_set_get.jpg)
 
