@@ -78,6 +78,7 @@ file.close()
 | zset     | 0.811              |
 
 Прикрепляю скриншоты:
+
 ![](time_to_upload_string.jpg)
 ![](time_tupload_hset.jpg)
 ![](time_to_upload_list.jpg)
