@@ -34,3 +34,5 @@ Remote: new PouchDB('http://admin:admin@localhost:5984/db')
 И убедились, что в файле ```ДЗ3.html``` по-прежнему фигурирует наше имя:
 
 ![](after_update.jpg)
+
+Также, прикрепляю сохранненый файл ```PouchDB```
