@@ -9,7 +9,7 @@ docker run -p 5984:5984 -e COUCHDB_USER=admin -e COUCHDB_PASSWORD=admin -d couch
 
 ## 2. База данных
 
-Перешли по ссылке ```http://localhost:5984/_utils``` и создали базу данных И добавили поле имя:
+Перешли по ссылке ```http://localhost:5984/_utils``` и создали базу данных, добавили поле имя:
 
 ![](Create_db_1.jpg)
 
