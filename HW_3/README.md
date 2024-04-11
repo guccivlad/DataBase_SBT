@@ -17,7 +17,7 @@ docker run -p 5984:5984 -e COUCHDB_USER=admin -e COUCHDB_PASSWORD=admin -d couch
 
 ## 3. Инсталяция
 
-В фафле ```ДЗ3.html``` прописали путь к инсталяции:
+В файле ```ДЗ3.html``` прописали путь к инсталяции:
 ```
 Remote: new PouchDB('http://admin:admin@localhost:5984/db')
 ```
